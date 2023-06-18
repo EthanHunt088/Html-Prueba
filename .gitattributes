@@ -1,2 +1,42 @@
-# Auto detect text files and perform LF normalization
-* text=auto
+<html>
+	<head>
+		<style type="text/css">
+			.parrafo {
+				background-color:blue;
+				color: white;
+				width: 250px;
+			}
+		</style>
+	</head>
+	<body>
+		<p class="parrafo">
+			<b>Listado de usuarios:</b>
+		</p>
+		<table border="1">
+			<thead>
+				<tr>
+					<th>Nombre</th>
+					<th>Dirección</th>
+					<th>Correo</th>
+				</tr>
+			</thead>
+			<tbody>
+				<tr>
+					<td>Raymond Reddington</td>
+					<td>552 52nd Ave</td>
+					<td>reddington01@mail.com</td>
+				</tr>
+				<tr>
+					<td>Dembe Zuma</td>
+					<td>1062 St Johns</td>
+					<td>zuma_dembe@mail.com</td>
+				</tr>
+				<tr>
+					<td>Elizabeth Keen</td>
+					<td>2230 Malcolm X Blvd</td>
+					<td>keen_eli@mail.com</td>
+				</tr>
+			</tbody>
+		</table>
+	</body>
+</html>
